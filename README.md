@@ -18,7 +18,7 @@
 
 ## Object Orientated Analysis 
 
-### Business Object 
+### Business Objectives 
 This is a set of random business requirements I have generated using ChatGPT 
 
 **Business Requirements for the Employee Management System**:
@@ -50,7 +50,7 @@ This is a set of random business requirements I have generated using ChatGPT
     - Objective: Establish a module to track employee job movements, promotions, and role changes.
     - Details: The system should record job title changes, departmental transfers, and pay zone adjustments. This will help in maintaining an up-to-date organizational structure and support workforce planning.
 
-## EDA 
+### EDA 
 
 The following contains summary of dtype, input format and sample input
 
