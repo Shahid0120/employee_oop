@@ -1,4 +1,7 @@
-
+# Main Goals
+- Fit a GUI for employment management system using Object orientated software development lifecycle
+- Utilise Key Concepts of Object orientated Programming Abstraction, encapsulation, inheritance, and polymorphism
+- Upon creating a MVP solution, hold code review, refactoring code using and implementing Design patterns
 
 # Key Dates Logs: 
 - 5th October : Imported Dataset, started reading Python 3 Object-Oriented Programming" by Dusty Phillips Chapter 1/2/3. Created ficticious bussiness requirements for GUI employee dataset. Implemented a basic UML design for object interactions.
@@ -36,16 +39,16 @@ This is a set of random bussiness requirements I have generated using ChatGPT
 
 **Business Requirements for the Employee Management System**:
 - Employee Information Management:
-    Objective: Develop a module that maintains comprehensive employee records.
-    Details: The system should enable HR to view and update employee profiles, including personal information, employment status, job title, and supervisor details. It should also support tracking employee status changes (e.g., Active, On Leave, Terminated) and historical employment data.
+    - Objective: Develop a module that maintains comprehensive employee records.
+    - Details: The system should enable HR to view and update employee profiles, including personal information, employment status, job title, and supervisor details. It should also support tracking employee status changes (e.g., Active, On Leave, Terminated) and historical employment data.
 
 - Training and Development Management:
-    Objective: Implement a training management feature to streamline the administration of employee training programs.
-    Details: The system should allow HR to schedule training sessions, assign employees to different programs, and track their attendance and completion status. Additionally, it should include the capability to store training outcomes and generate reports on training participation by business units or departments.
+    - Objective: Implement a training management feature to streamline the administration of employee training programs.
+    - Details: The system should allow HR to schedule training sessions, assign employees to different programs, and track their attendance and completion status. Additionally, it should include the capability to store training outcomes and generate reports on training participation by business units or departments.
     
 - Recruitment and Applicant Tracking:
-    Objective: Create a recruitment module to manage the hiring process and applicant information.
-    Details: The system should support applicant tracking, status management (e.g., Submitted, Under Review, Selected, Rejected), and application history. It should provide an interface to view applicant details, schedule interviews, and track recruitment metrics.
+    - Objective: Create a recruitment module to manage the hiring process and applicant information.
+    - Details: The system should support applicant tracking, status management (e.g., Submitted, Under Review, Selected, Rejected), and application history. It should provide an interface to view applicant details, schedule interviews, and track recruitment metrics.
 
 - Employee Engagement and Survey Analysis:
     Objective: Develop a survey management module to collect, store, and analyze employee engagement data.
