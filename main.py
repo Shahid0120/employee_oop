@@ -34,8 +34,6 @@ def main():
     option_menu = ttk.OptionMenu(mainframe, selected_option, *options)
     option_menu.grid(column=2, row=1)
 
-
-
     # Adding Polish 
     for child in mainframe.winfo_children(): 
         child.grid_configure(padx=5, pady=5)
