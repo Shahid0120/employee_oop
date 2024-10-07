@@ -10,6 +10,12 @@ class Employee():
         self.employee_id = employee_id
         self.employee_email = employee_email
     
+    def add_to_database(self):
+        """
+            Method to add an employee to the database.
+        """
+        pass
+    
     def locate(self):
         pass
     
