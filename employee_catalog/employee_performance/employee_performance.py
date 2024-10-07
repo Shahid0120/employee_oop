@@ -2,7 +2,7 @@
 Subclass to Employee class that contains performance information
 
 """
-from .employee import Employee
+from ..employee import Employee
 class Performance(Employee):
     def __init__(self, employee_name, employee_id, employee_email, performance_score, employee_rating):
         super().__init__(employee_name, employee_id, employee_email)

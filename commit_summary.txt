@@ -1,4 +1,0 @@
-4b0aaf0 changed formatting of read.me to show overview of project
-a0633ae created fake business requirements using chatgpt
-e58b896 added more complex employee data
-c21260a first commit

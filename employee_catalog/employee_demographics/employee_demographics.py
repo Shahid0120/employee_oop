@@ -3,7 +3,7 @@
 Subclass to Employee class that contains demographic information
 
 """
-from .employee import Employee
+from ..employee import Employee
 
 class Demographics(Employee):
     def __init__(self, employee_age, race, gender, location, state, marital_status, employee_name, employee_id, employee_email):

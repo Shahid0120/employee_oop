@@ -1,7 +1,7 @@
 """
 Subclass to Employee class that contains employee company information
 """
-from .employee import Employee
+from ..employee import Employee
 
 class EmployeeCompanyInformation(Employee):
     def __init__(self, employee_name, employee_id, employee_email, employee_type, employee_title, employee_classfications, employee_payzone):

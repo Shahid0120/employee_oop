@@ -22,8 +22,8 @@ class Employee():
         """
         pass
 
-    def _get_employee_demograhics(self):
+    def _get_employee_demographics(self):
         pass
 
-    def _get_employee_comapny_details(self):
+    def _get_employee_company_details(self):
         pass
